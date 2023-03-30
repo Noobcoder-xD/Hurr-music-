@@ -29,8 +29,8 @@ def ytsearch(query):
 def stream_markup(user_id):
   buttons = [
     [
-      InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheSupportBots"),
-      InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TheBotsUpdate"),
+      InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/TeleBotxSupport"),
+      InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TeleBotsUpdate"),
     ],
     [
       InlineKeyboardButton(text="✚ ᴍᴇɴᴜ", callback_data="cbmenu"),
@@ -51,7 +51,7 @@ def menu_markup(user_id):
      ],
      [
       InlineKeyboardButton(text="🔇", callback_data=f'cbmute | {user_id}'),
-      InlineKeyboardButton(text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/TheBotsSupport"),
+      InlineKeyboardButton(text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/TeleBotxSupport"),
       InlineKeyboardButton(text="🔊", callback_data=f'cbunmute | {user_id}')
      ],
      [
@@ -65,8 +65,8 @@ def menu_markup(user_id):
 def audio_markup(user_id):
   buttons = [
     [
-      InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheSupportBots"),
-      InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TheBotsUpdate"),
+      InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/TeleBotxSupport"),
+      InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TeleBotsUpdate"),
     ],
     [
       InlineKeyboardButton(text="✚ ᴍᴇɴᴜ", callback_data="cbmenu"),
