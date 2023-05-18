@@ -21,6 +21,6 @@ telegraph
 tgcrypto
 wget
 youtube_dl
-youtube-search-python==1.4.9
-yt-dlp==2021.12.01
+youtube-search-python==1.6.6
+yt-dlp==2023.03.04
 youtube-search
