@@ -8,7 +8,7 @@ gitpython
 heroku3
 motor
 py-tgcalls==1.1.6
-pyrogram==1.4.16
+pyrogram
 pillow
 psutil
 python-dotenv
